@@ -1,2 +1,3 @@
 # bars-chat
-Sample chat for soket.io
+Sample chat (soket.io)
+
